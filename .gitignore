@@ -16,3 +16,5 @@ server.pid
 /dist/
 .cache
 .sbtserver.lock
+play-computer-docker-test/.sbtserver
+.sbtserver
